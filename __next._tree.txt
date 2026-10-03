@@ -2,4 +2,4 @@
 :HL["/_next/static/media/2f13ad8e538108e0-s.p.22iyan98j1_2e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/jaf-logo-header-220.webp","image",{"imageSrcSet":"/images/jaf-logo-header-180.webp 180w, /images/jaf-logo-header-220.webp 220w","imageSizes":"(max-width: 767px) 180px, 220px"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"IdWmxV_S5wJZmnNs_b-8e"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"3libRMRbyAAWnyVDhJ_PZ"}
